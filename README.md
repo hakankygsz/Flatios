@@ -1,5 +1,8 @@
-![github](https://github.com/Flatios/Flatios/assets/105518542/207a0619-a965-4686-950a-c392a08bc78b)
-![snake gif](https://github.com/Flatios/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flatios/Flatios/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flatios/Flatios/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Flatios/Flatios/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <div align="center">
