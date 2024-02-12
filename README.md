@@ -1,5 +1,5 @@
 ![github](https://github.com/Flatios/Flatios/assets/105518542/207a0619-a965-4686-950a-c392a08bc78b)
-![snake gif](https://github.com/Flatios/Flatios/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Flatios/blob/output/github-contribution-grid-snake.gif)
 
 
 <div align="center">
