@@ -1,4 +1,6 @@
 ![github](https://github.com/Flatios/Flatios/assets/105518542/207a0619-a965-4686-950a-c392a08bc78b)
+![snake gif](https://github.com/CagatayAkkas/Flatios/blob/output/github-contribution-grid-snake.gif)
+
 
 <div align="center">
 <h2> 🎈 Hello There <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 🎈</h2>
