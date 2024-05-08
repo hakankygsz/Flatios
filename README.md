@@ -27,6 +27,7 @@
   <img title="Opencv" height="25" src="Images/open-cv.svg">
   <img title="MySQL" height="25" src="Images/mysql.svg">
   <img title="cSharp" height="25" src="Images/cSharp.svg">
+  <img title="Node" height="25" src="Images/node.png">
   <img title="HTML5" height="25" src="Images/html5.svg">
   <img title="CSS" height="25" src="Images/css.svg">
   <img title="Javascript" height="25" src="Images/javascript.svg">
