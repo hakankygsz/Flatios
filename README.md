@@ -53,7 +53,7 @@
 
 <hr>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/flatios" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+  <a href="https://www.buymeacoffee.com/flatios" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/pizza.png" alt="Flatios buy me a coffee" width="230"></a>
 </p>
 
 
