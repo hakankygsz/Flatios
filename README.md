@@ -17,7 +17,7 @@ I have been actively in this field for exactly 6 years. I am proficient in vario
 
 -----
 
-<di align="center">
+<div align="center">
 Ask me anything <a href="https://github.com/Flatios/Flatios/issues/new"><b>here</b></a><br>
 or <a href="mailto:hakankaygusuzone@outlook.com"><b>email</b></a> me
 
