@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Flatios" alt="Flatios">    
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Flatios/Flatios" alt="Flatios">    
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -53,7 +53,7 @@
 
 <hr>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/flatios" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange-img.png" alt="Flatios buy me a coffee" width="230"></a>
+  <a href="https://www.buymeacoffee.com/flatios" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Flatios buy me a coffee" width="230"></a>
 </p>
 
 
