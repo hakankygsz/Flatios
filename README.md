@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flatios/Flatios/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flatios/Flatios/output/github-contribution-grid-snake.svg">
-  <img alt="A dynamic animation showcasing Hakan's consistent GitHub contributions" src="https://raw.githubusercontent.com/Flatios/Flatios/output/github-contribution-grid-snake.svg" width="300"> </picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <div style="text-align: center;">
   <h1 style="font-family: sans-serif; font-size: 2.5rem; margin: 0;">Hi there, <span style="color: #007bff;">developers</span> </h1> <p style="font-size: 1.2rem;">I'm Hakan Kaygusuz, a passionate software developer crafting projects in API, automation, and communication systems.</p> </div>
