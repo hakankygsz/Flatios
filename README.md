@@ -23,5 +23,5 @@
 <br>
 
 <div style="text-align: center;">
-  <p>**Credits:** <a href="https://github.com/Flatios">Flatios</a> (GitHub contribution grid animation)</p> <p>**Last Edited:** 2024-05-08 </div>
+  **<p>Credits: <a href="https://github.com/Flatios">Flatios</a> (GitHub contribution grid animation)</p> <p>**Last Edited:** 2024-05-08 </div>**
 </div>
