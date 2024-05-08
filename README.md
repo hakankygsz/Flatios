@@ -10,7 +10,7 @@
 </div>
 
 
-<div align="left" style="position: absolute; right: 5rem">
+<div style="text-align: left; margin-right: 4rem">
 Hello, I am Hakan Kaygusuz. I develop projects on API, automation and communication systems. I am 14 years old and very experienced in software development. 
 I have been actively in this field for exactly 6 years. I am proficient in various technologies such as Python, C#, Lua, Arduino, and I constantly share them royalty-free. 
 </div>
