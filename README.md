@@ -23,12 +23,12 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2><br>
 <p align="center">
-  <img title="Python" height="25" src="images/python-original.svg">
-  <img title="Opencv" height="25" src="images/.svg">
-  <img title="HTML5" height="25" src="images/html5.svg">
-  <img title="CSS" height="25" src="images/css.svg">
-  <img title="Javascript" height="25" src="images/javascript.svg">
-  <img title="JSON" height="25" src="images/json.svg">
+  <img title="Python" height="25" src="Images/python-original.svg">
+  <img title="Opencv" height="25" src="Images/open-cv.svg">
+  <img title="HTML5" height="25" src="Images/html5.svg">
+  <img title="CSS" height="25" src="Images/css.svg">
+  <img title="Javascript" height="25" src="Images/javascript.svg">
+  <img title="JSON" height="25" src="Images/json.svg">
 </p>
 <hr>
 
