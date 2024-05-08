@@ -18,9 +18,4 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram profile">
   </a>
 </div>
-
-<br>
-
-<div style="text-align: center;">
-  **<p>Credits: <a href="https://github.com/Flatios">Flatios</a> (GitHub contribution grid animation)</p> <p>**Last Edited:** 2024-05-08 </div>**
-</div>
+</br>
