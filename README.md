@@ -20,8 +20,6 @@ I have been actively in this field for exactly 6 years. I am proficient in vario
 -----
 
 <div align="center">
-Ask me anything <a href="https://github.com/Flatios/Flatios/issues/new"><b>here</b></a><br>
-or <a href="mailto:hakankaygusuzone@outlook.com"><b>email</b></a> me
 
 <a href="https://www.linkedin.com/in/hakan-k-88b593288/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/hakankygsz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
